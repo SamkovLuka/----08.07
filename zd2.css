@@ -1,0 +1,23 @@
+img{
+    background-color: grey;
+    margin-bottom: 200px;
+    padding-right: 150px;
+    width: 250px;
+    height: 250px;
+}
+img:hover{
+    background-color: black;
+}
+
+.alignright{
+    background-color: gray;
+    color: white;
+    text-align:right;
+    font-size:large;
+    margin-top: -300px;
+    margin-bottom: 0px;
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    margin-right: 1000px;
+}

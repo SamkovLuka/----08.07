@@ -1,0 +1,32 @@
+body{
+    background-color:#2b4f6f;
+}
+.p1{
+    margin-left: 50px;
+    margin-top: 60px;
+    color:white
+}
+p:hover{
+    text-decoration:underline;
+}
+.p2{
+    float: right;
+    margin-right: 350px;
+    margin-top: -160px;
+    color:white
+}
+.pic3{
+    float: right;
+    margin-left: 20px;
+}
+.pic2{
+    float: right;
+    margin-left: 20px;
+}
+.pic1{
+    float: right;
+}
+.c{
+    color: white;
+    margin-left: 270px;
+}
